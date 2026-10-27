@@ -1,0 +1,10 @@
+.git
+.venv
+tests
+terraform
+helm
+*.md
+__pycache__
+.pytest_cache
+coverage.xml
+test-results.xml

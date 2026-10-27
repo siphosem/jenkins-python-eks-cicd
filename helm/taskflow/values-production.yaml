@@ -1,0 +1,6 @@
+service:
+  type: LoadBalancer
+autoscaling:
+  enabled: true
+  minReplicas: 2
+  maxReplicas: 6
